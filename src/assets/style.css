@@ -21,4 +21,26 @@ h1 {
     filter: drop-shadow(7px 11px 10px silver);
 }
 
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.picture {
+    margin: 0 auto;
+    width: 350px;
+    height: 300px;
+    background-size: cover;
+    filter: drop-shadow(7px 11px 10px silver);
+}
+
+.peak {
+    background-image: url(./images/piki2.jpg);
+}
+
+.march {
+    background-image: url(./images/march.jpg);
+}
+
 
